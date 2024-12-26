@@ -1,0 +1,153 @@
+Rating Action Commentary
+
+Fitch Upgrades Ford and Ford Credit's IDRs to 'BBB-'; Outlook Stable
+Wed 06 Sep, 2023 - 4:27 PM ET
+
+Fitch Ratings - Chicago - 06 Sep 2023: Fitch Ratings has upgraded the Long-Term Issuer Default Rating (IDR) of Ford Motor Company (Ford) to 'BBB-' from 'BB+'. Fitch has also upgraded the Long-Term and Short-Term Issuer Default Ratings (IDRs) of Ford Motor Credit Company LLC (Ford Credit) and its subsidiaries to 'BBB-'/'F3' from 'BB+'/'B'. Fitch has upgraded Ford's senior unsecured debt ratings to 'BBB-' from 'BB+'/'RR4' and Ford Credit's senior unsecured debt to 'BBB-' from 'BB+' and commercial paper (CP) to 'F3' from 'B'.
+
+The Rating Outlooks are Stable.
+
+The upgrade of Ford's ratings reflects Fitch's view that the supply chain challenges and resulting production volatility of the past two years have largely abated. It also reflects Fitch's expectation that the company's EBIT margins, FCF margins and leverage will all remain stronger over the intermediate term than those outlined in Fitch's previous positive rating sensitivities. Ford's leverage remains relatively low, and the company continues to maintain a strong liquidity position that provides it with substantial financial flexibility. The current labor negotiations create some near-term uncertainty, but Fitch expects the company to ultimately reach agreements that will remain supportive of its 'BBB-' IDR.
+
+
+Key Rating Drivers
+Mid-Single-Digit EBIT Margins: Fitch forecasts Ford's global automotive EBIT margins, according to Fitch's methodology, to run at about 4% over the next several years, up slightly from Ford's actual EBIT margin of 3.4% in 2022. Fitch expects margins to be supported over the intermediate term by solid performance in Ford's Blue and Pro segments and reduced losses in the Model e segment. However, Fitch expects higher labor costs will limit upside in margins, as will an expected normalization in vehicle pricing and mix. Over the longer term, Fitch expects Ford's margins to increase as the Model e business shifts toward profitability.
+
+Improving FCF: Fitch forecasts Ford's post-dividend automotive FCF (based on Fitch's methodology) to run in the low-single-digit range over the intermediate term, incorporating headwinds from a normalizing pricing and mix environment and expected higher labor costs. Fitch also forecasts capex to rise mid-decade as Ford prepares for its next generation of EVs. Fitch expects working capital cash flows to normalize as a source of cash over the next few years as production grows and supply-chain-related production volatility subsides. However, Fitch expects dividends from Ford Credit, which Fitch includes in Ford's automotive FCF calculation, to be minimal in 2023 but to gradually grow in subsequent years.
+
+Fitch expects Ford's post-dividend automotive FCF margins to run near 1.0% over the next few years. However, excluding restructuring-related cash flows, Fitch expects FCF margins to run closer to 2.0%. Fitch expects capex as a percentage of revenue to run in the 5%-7% range, peaking around mid-decade before declining toward historical levels in later years. Ford's actual automotive FCF margin, according to Fitch's methodology, was 3.7% in 2022 or 3.9% excluding restructuring costs.
+
+Sub-2.0x Leverage: Fitch expects Ford's automotive EBITDA gross leverage (according to Fitch's calculations) to remain below 2.0x and in-line with pre-pandemic levels. Fitch expects EBITDA gross leverage to run in the mid-to upper-1x range for several years, but over the longer term, leverage could decline toward the low-1x range. Ford's leverage will be influenced by dividends from Ford Credit, as Fitch adds Ford Credit's dividends, as well as dividends from unconsolidated JVs, to EBITDA when calculating leverage. Ford's actual automotive gross EBITDA leverage at YE 2022 was 1.5x.
+
+EV Strategy Shift: Ford remains committed to EVs over the longer term, but as EV demand growth has slowed, at least in North America, the company has shifted its strategy to put more emphasis on hybrids in the near term while it continues to invest in future generations of its EVs. Fitch views this as a modest credit positive, as it will help to limit near-term losses in Model e, while enhancing cash generation, which can be further invested in its future EV programs.
+
+Labor Negotiations: Ford and the other two Detroit automakers are currently in the midst of negotiating new labor agreements with the UAW in the U.S. and Unifor in Canada. The contracts with both unions expire in mid-September 2023. In its rating case forecast, Fitch does not assume that Ford experiences a labor action. Fitch expects Ford's North American labor costs will rise once new agreements are reached, but these will be at least partially offset by ongoing cost savings initiatives currently underway.
+
+In the event of a strike, Fitch believes Ford has sufficient liquidity to manage a prolonged disruption and hold its ratings. For example, in 2019, the UAW engaged in a six-week strike at General Motors Company (GM). GM estimated that the shutdown reduced its FY 2019 revenue by about $11 billion and FCF by about $5.4 billion, but Fitch did not take any rating actions on GM as a result of the strike.
+
+FORD CREDIT
+
+IDR AND SENIOR DEBT
+
+The upgrade of Ford Credit's ratings to 'BBB-' and the Stable Rating Outlook are driven by the upgrade and Outlook of Ford's ratings. Ford Credit's ratings and Outlook are linked to those of Ford, as Fitch considers Ford Credit as a core subsidiary of Ford. This view is supported by the high percentage of Ford vehicle sales financed by Ford Credit and the strong operational and financial linkages between the two companies. Ford Credit also has a support agreement with Ford, which requires Ford to make capital contributions to Ford Credit if its leverage (defined as debt to equity) is higher than 12.5x. Ford Credit's ratings also reflect its consistent operating performance, peer superior asset quality historically, and adequate liquidity.
+
+Ford Credit's Shareholder Support Rating (SSR) of 'bbb-' is aligned with Ford's IDR and indicates the minimum level to which Ford Credit's IDR could fall if Fitch does not change its view on potential support from Ford. An SSR of 'bbb-' indicates a high probability of external support being forthcoming.
+
+Ford Credit's asset quality remained strong in 1H23, but delinquencies and losses have normalized from extraordinarily low levels seen in 2021-2022 driven by unprecedented government support programs to consumers and higher used vehicle prices, elevated gains on lease terminations, and higher recoveries on defaulted loans. Retail delinquencies (60+ days past due) as a percentage of total retail receivables were 0.15% at 2Q23, up modestly from 0.14% at 2Q22. Ford Credit's net charge-off rate on its worldwide portfolio was 0.15% at 2Q23, up from 0.07% a year ago. Fitch expects delinquencies and credit losses will continue to increase from historically low levels, as consumer credit performance and used vehicle values continue to normalize.
+
+Profitability, measured as pre-tax income on average assets (ROAA), was 1.1% in 1H23, down from 2.7% a year ago due to lower financing margins, incrementally higher credit losses, and less favorable lease residual value performance. Fitch expects that profitability metrics will continue to experience pressure in the medium term given the more challenging macro backdrop.
+
+Leverage, as measured by total debt to tangible equity basis was 9.9x as of 2Q23, compared with 9.1x at 2Q22. While Ford Credit's leverage is higher than other captives and standalone finance and leasing companies, Fitch believes it is mitigated by the higher quality loan and lease portfolio, which has shown superior credit performance relative to peers.
+
+Ford Credit's funding diversification has improved in recent years, in Fitch's view, with a greater mix of unsecured debt. Unsecured debt as a percentage of total debt was to 56.5% at 2Q23, up from 50.7% in 2012. Fitch views Ford Credit's access to unsecured funding favorably as it increases the pool of unencumbered assets that could be pledged during periods of stress, providing enhanced funding flexibility.
+
+Fitch believes Ford Credit has sufficient liquidity to address its secured and unsecured debt maturities remaining in 2023, which total approximately $25.5 billion. Available liquidity was $30.1 billion at 2Q23, including $9.5 billion in cash and marketable securities and $20.6 billion of available capacity under various committed funding facilities, and is further augmented by cash flow collections on underlying loans and lease receivables and expectations for continued market issuance.
+
+The upgrade of the Short-Term IDR to 'F3' from 'B' reflects the rating linkage between the Short-Term IDR and Long-Term IDR and Fitch's view of the funding and liquidity profiles of Ford Credit and Ford.
+
+Ford Credit's CP is equalized with the company's Short-Term IDR.
+
+Ford Credit's unsecured debt ratings are equalized with the Long-Term IDR and reflect the proportion of unsecured debt in the capital structure and the expectation for average recovery prospects under a stress scenario.
+
+
+Derivation Summary
+Ford's business profile is similar to other large global volume auto manufacturers. From an automotive revenue perspective, it is larger than General Motors Company (GM) but smaller than Stellantis N.V. (Stellantis). Compared with GM, Ford's operations are more globally diversified, with significant operations in most major auto markets. However, from a brand perspective, Ford is less diversified than Volkswagen AG (VW), Stellantis or GM, focusing primarily on its global Ford brand and, to a much lesser extent, its Lincoln luxury brand, which is only available in North America and China.
+
+Ford sells a wide range of vehicles under the Ford brand globally, ranging from small economy passenger cars to heavy trucks in certain markets. Ford has a particularly strong market share in the highly profitable North American pickup and European light commercial vehicle segments. The company's products span a range of internal combustion engine and hybrid vehicles, as well as EVs.
+
+For several years, Ford's credit profile was weaker than many of its global mass-market peers in the 'BBB' category, such as GM and Stellantis. Ford's EBIT and FCF margins were lower and gross leverage was a little higher than these other global auto manufacturers. However, Ford's metrics have improved, and Fitch expects they will remain in-line with those of investment-grade auto manufacturers going forward. Ford also has one of the global auto industry's strongest liquidity positions, providing it with significant financial flexibility. In terms of shareholder-related actions, Ford's share buyback activity is generally limited to antidilutive repurchases, but it instead tends to pay a flexible supplemental dividend annually, in addition to its regular common dividend. The company has restored paying common dividends at the pre-pandemic level.
+
+
+Key Assumptions
+Fitch's Key Assumptions Within the Rating Case for the Issuer
+
+--Fitch's base case assumes that Ford is not the target of a labor action by the UAW or Unifor;
+
+--Global industry light vehicle sales rise about 6% in 2023, including an increase of about 12% in U.S., with effects from the global supply chain challenges easing. In 2024, industry sales growth is more muted, particularly in the U.S., as a weaker macro environment weighs on volumes. Beyond 2024, industry sales rise at a low- to mid-single-digit rate;
+
+--Vehicle pricing and mix continue to normalize through the forecast as dealer inventories stay at targeted levels;
+
+--U.S. and Canada labor costs increase under new contracts with the UAW and Unifor, but these are partially offset by savings from Ford's cost reduction programs;
+
+--Capex runs at about 5%-7% of revenue over the next several years, with capex running toward the higher end of the range later in the period as the company prepares for increased levels of EV production;
+
+--Working capital is a source of cash over the next several years on increased wholesale volumes and a normalized production environment in the latter half of the year.
+
+--Post-dividend FCF margins, excluding redesign cash expenses, run at about 2% over the next few years, then rise toward 3% in later years;
+
+--The company maintains automotive cash above $20 billion over the forecast horizon, with total liquidity, including credit facility capacity, above $30 billion;
+
+--Ford Credit dividends to Ford, which are included in Fitch's FCF calculation, are minimal in 2023 and then gradually increase over subsequent years.
+
+
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to a positive rating action/upgrade:
+
+--Continued execution and maturation of Ford's EV strategy;
+
+--Production and inventory discipline, leading to a sustained combined EBIT margin at Ford Blue and Ford Pro of 10% (according to Ford's calculations) and a sustained global automotive EBIT margin above 4.0% (according to Fitch's calculations);
+
+--Sustained FCF margin above 1.5%, excluding restructuring costs;
+
+--Sustained EBITDA leverage below 1.5x;
+
+--Retention of capital allocation priorities, including common and supplemental dividends, that support through-the-cycle financial flexibility.
+
+Factors that could, individually or collectively, lead to a negative rating action/downgrade:
+
+--A shift in financial policy that reduces the company's cash target to below $20 billion;
+
+--Sustained global automotive EBIT margins below 2.0%;
+
+--Sustained FCF margins below 0.5%, excluding restructuring costs;
+
+--Sustained EBITDA leverage above 2.5x.
+
+FORD CREDIT
+
+Factors that could, individually or collectively, lead to positive rating action/upgrade are largely dependent on Ford's ratings and Outlook, given the rating linkage. Ford Credit's ratings are expected to move in tandem with its parent, although any change in Fitch's view on whether Ford Credit remains core to its parent, based on an assessment of its size, ownership, and strategic alignment with Ford, could change this rating linkage. Fitch cannot envisage a scenario where Ford Credit would be rated higher than the parent.
+
+Factors that could, individually or collectively, lead to negative rating action/downgrade are largely dependent on Ford's ratings and Outlook, given the rating linkage. However, a material increase in leverage, an inability to access funding for an extended period, consistent and sustained operating losses, significant deterioration in the credit quality of the underlying loan and lease portfolio, and/or material impairment of the liquidity profile could become constraining factors on the parent and subsidiary ratings.
+
+The SSR is primarily sensitive to changes in Ford Credit's IDR, and secondarily, to changes in Fitch's assessment of the probability of support being extended to Ford Credit from Ford.
+
+The Short-Term IDR is primarily sensitive to changes in the Long-Term IDR and, by extension, to Fitch's view of institutional support, and also Fitch's view of the funding and liquidity profiles of Ford Credit and Ford.
+
+The CP rating is sensitive to Ford Credit's Short-Term IDR, and therefore, would be expected to move in tandem.
+
+The unsecured debt rating is primarily sensitive to changes in the Long-Term IDR and is expected to move in tandem. However, a material increase in the proportion of secured funding could result in the unsecured debt rating being notched down for the IDR.
+
+
+Best/Worst Case Rating Scenario
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+
+
+Liquidity and Debt Structure
+Strong Liquidity Position: Ford had about $30 billion of automotive cash and marketable securities as of June 30, 2023 (excluding Fitch's adjustments for not readily available cash). In addition to its cash and marketable securities, as of June 30, 2023, Ford also had nearly full availability on its $13.5 billion primary revolver (after accounting for $18 million in LOCs) and full availability on its $2.0 billion supplemental revolver and $1.8 billion 364-day revolver.
+
+As of June 30, 2023, Ford also had a total of about $400 million available on various local credit facilities around the world. About $3.4 billion of the primary revolver commitments mature in 2026 and $10.1 billion matures in 2028. About $100 million of the supplemental revolver matures in September 2024 and $1.9 billion matures in 2026. The 364-day revolver matures in April 2024.
+
+In August 2023, Ford entered into a second 364-day facility agreement that provides an additional $4.0 billion of available liquidity, if needed. Pro-forma for this facility, Ford's liquidity at June 30, 2023 would have been over $51 billion.
+
+As part of its captive finance adjustment, Fitch's Non-Bank Financial Institutions team has calculated an allowable debt-to-equity ratio of 4.0x for Ford Credit. This is lower than the actual ratio of 9.9x, as calculated by Fitch at June 30, 2023. As a result of its analysis, Fitch has assumed that Ford makes a theoretical $14.7 billion equity injection into Ford Credit, funded with balance sheet cash, to bring Ford Credit's debt-to-equity ratio down to 4.0x. Fitch has included the adjustment in its calculation of Ford's not readily available cash. The resulting adjustment reduces Fitch's calculation of Ford's readily available automotive cash, but the company's metrics remain supportive of Ford's IDR and Outlook.
+
+In addition to the captive-finance adjustment, according to its criteria, Fitch has treated an additional $3.2 billion of Ford's automotive cash as "not readily available" for purposes of calculating net metrics. This is based on Fitch's estimate of the amount of cash needed to cover typical seasonality in Ford's automotive business. However, even after excluding the amounts noted above from its liquidity calculations, Fitch views Ford's automotive liquidity position as strong.
+
+Debt Structure: As of June 30, 2023, Ford's automotive debt structure consisted primarily of about $17 billion of senior unsecured notes (including $2.3 billion of convertible notes) and $1.7 billion of borrowings on a U.K. export finance program, along with various other long- and short-term borrowings.
+
+
+Issuer Profile
+Ford is a global automotive manufacturer that builds and sells light vehicles primarily under the Ford and Lincoln brands, as well as Ford-brand commercial vehicles. Ford also offers financial services to dealers and customers through Ford Motor Credit Company LLC.
+
+
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+
+Public Ratings with Credit Linkage to other ratings
+Ford Credit's subsidiary ratings are directly linked to Ford Credit's ratings as Ford Credit unconditionally guarantees much of its subsidiaries' debt. The ratings of the subsidiaries are linked to the IDR of Ford Credit and are expected to move in tandem.
+
+
+ESG Considerations
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
