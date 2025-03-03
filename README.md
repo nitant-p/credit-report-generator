@@ -1,6 +1,6 @@
 # Credit Report Generator API
 
-This is a Django-based web application that allows users to generate credit rating reports for companies using an LLM (Llama 3.1 70B) and retrieve previously generated reports. The app uses SQLite 3 and MongoDB for data storage and requires basic authentication for accessing report-related endpoints.
+This is a Django-based web application that allows users to generate credit rating reports for companies using an LLM (Llama 3.3 70B) and retrieve previously generated reports. The app uses SQLite 3 and MongoDB for data storage and requires basic authentication for accessing report-related endpoints.
 
 ~~It is hosted on an AWS EC2 instance. The public IPv4 address is `13.238.253.223`.~~ **This app is no longer hosted on AWS.**
 
@@ -20,7 +20,7 @@ This is a Django-based web application that allows users to generate credit rati
 This project allows users to:
 1. Create a new user account.
 2. Log in to the system using their credentials.
-3. Generate credit rating reports for companies stored in the database, either by `company_id` or `company_name`. The report generation is done using the existing data on companies which is passed to the Llama 3.1 70B model.
+3. Generate credit rating reports for companies stored in the database, either by `company_id` or `company_name`. The report generation is done using the existing data on companies which is passed to the Llama 3.3 70B model.
 4. Retrieve previously generated reports, filtered by date range and whether reports were created by the logged-in user or all users.
 
 The web app is currently hosted on an AWS EC2 instance, but the setup instructions below are for **local usage**. You can run the app locally to test its functionality or deploy it on your own cloud infrastructure if desired.
@@ -78,9 +78,9 @@ Please install MongoDB, MongoDB Command Line Database Tools and MongoDB Compass 
 1. [MongoDB Installation Guide](https://www.mongodb.com/docs/manual/installation/)
 2. [MongoDB Command Line Databse Tools](https://www.mongodb.com/try/download/database-tools)
 3. [MongoDB Compass](https://www.mongodb.com/try/download/compass)
-4. Open MongoDB Compass and start a new connection on mongodb://localhost:27017 ![image](https://github.com/user-attachments/assets/6374c61e-c784-4e43-bc38-34716ceb91e5)
+4. Open MongoDB Compass and start a new connection on mongodb://localhost:27017
 5. Run the command `mongorestore --db company_data path/to/dump/` where `path/to/dump` is the path to the `company_data` folder in `datadump` in the repository. If you are in `credit-report-generator/` then the command would be `mongorestore --db company_data datadump/company_data`
-6. Check MongoDB Compass to verify the data dump was sucessful. The sidebar should look something like this: ![image](https://github.com/user-attachments/assets/9860dd38-3699-4951-b8bb-821afa4282bb)
+6. Check MongoDB Compass to verify the data dump was sucessful.
 
 
 ## Usage
@@ -98,31 +98,30 @@ ID is the same company ID as in `company_metadata.json`. e.g. `42601` for `Amazo
 
 There is also the option to use the LLM or not. If not used, the API simply returns a dummy report stored locally.
 
-Example usage with Amazon: 
-
-![image](https://github.com/user-attachments/assets/be9fe1da-b656-4b56-a197-e2735b9f1d1b)
+Example usage locally:
 
 Curl: 
-```curl --location 'http://13.238.253.223:8000/api/generate/' \
+```curl --location 'http://127.0.0.1:8000/api/generate/' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Basic Ym9iOmJvYg==' \
---header 'Cookie: csrftoken=yeEXjXmfliVGp33PwbDGIKJE4aHylOgR; sessionid=suilwhp66yrwkgwuajkwkg5p3m15gph7' \
 --data '{
-    "company_id": 42601,
+    "company_id": 27053,
     "use_llm": true
 }'
 ```
 
+![image](/images/local-gen-example.png)
+
 If the request cannot be authorized, please try adding basic auth on Postman. `bob` is the admin user.
 
-![image](https://github.com/user-attachments/assets/99d08a39-6a6b-4e7d-8d8d-d47307853bc3)
+![image](/images/basic-auth.png)
 
-When using the LLM, this API uses the companies financial ratios as a parameter. Unfortunately, using the earning calls transcripts and the Ten K reports exceeded the maximum allowed tokens for the free usage of the Llama 3.1 70B model.
+When using the LLM, this API uses the companies financial ratios as a parameter. Unfortunately, using the earning calls transcripts and the Ten K reports exceeded the maximum allowed tokens for the free usage of the Llama 3.3 70B model.
 
 ### Getting a report
 
 Local URL: http://127.0.0.1:8000/api/get-report
-AWS EC2: http://13.238.253.223:8000/api/get-report
+AWS EC2: ~~http://13.238.253.223:8000/api/get-report~~
 
 This API allows the user to retrieve previously generated reports.
 
@@ -132,12 +131,12 @@ This API allows the user to retrieve previously generated reports.
 
 Example usage:
 
-![image](https://github.com/user-attachments/assets/043ab11a-67a0-4b00-b092-d8a8eb0ba095)
+![image](images/local-get.png)
 
 Curl: 
-```curl --location 'http://13.238.253.223:8000/api/get-report?company_id=42601' \
---header 'Authorization: Basic Ym9iOmJvYg==' \
---header 'Cookie: csrftoken=yeEXjXmfliVGp33PwbDGIKJE4aHylOgR; sessionid=suilwhp66yrwkgwuajkwkg5p3m15gph7'
+```
+curl --location 'http://127.0.0.1:8000/api/get-report?company_id=27053' \
+--header 'Authorization: Basic Ym9iOmJvYg=='
 ```
 
 If the request cannot be authorized, please try adding basic auth on Postman. `bob` is the admin user.
@@ -145,22 +144,21 @@ If the request cannot be authorized, please try adding basic auth on Postman. `b
 ### Registering a new user
 
 Local URL: http://127.0.0.1:8000/api/register
-AWS EC2: http://13.238.253.223:8000/api/register
+~~AWS EC2: http://13.238.253.223:8000/api/register~~
 
-The EC2 instance requires basic authentication to be enabled on Postman when creating a new user, but the local copy works as expected.
+~~The EC2 instance requires basic authentication to be enabled on Postman when creating a new user, but the local copy works as expected.~~
+Example local usage:
 
-Example usage:
-
-![image](https://github.com/user-attachments/assets/33c89ba1-dbd7-4b49-ba2a-4a1346a748f4)
+![image](images/local-register.png)
 
 Curl: 
-```curl --location 'http://13.238.253.223:8000/api/register/' \
+```
+curl --location 'http://127.0.0.1:8000/api/register/' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Basic Ym9iOmJvYg==' \
---header 'Cookie: csrftoken=yeEXjXmfliVGp33PwbDGIKJE4aHylOgR; sessionid=suilwhp66yrwkgwuajkwkg5p3m15gph7' \
 --data '{
-    "username": "bobby123",
-    "password": "bobby123"
+    "username": "bobby1234",
+    "password": "bobby1234"
 }
 '
 ```
@@ -171,16 +169,17 @@ Please enter the username and password in both the request body and via `Basic A
 
 Example usage: 
 
-![image](https://github.com/user-attachments/assets/24745b57-5c41-4d2e-b012-1e4aa6a916d2)
+![image](images/local-login.png)
 
 Curl: 
-```curl --location 'http://13.238.253.223:8000/api/login/' \
+```
+curl --location 'http://127.0.0.1:8000/api/login/' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Basic Ym9iOmJvYg==' \
---header 'Cookie: csrftoken=ynbZ2LhZJkz70wzmPmZ250Pwy0yKqojY; sessionid=k22dvfau8ky25rg0ogqhsl1pd1ulcmy4' \
+--header 'Cookie: csrftoken=9JiLveqgKqLtc9af4n2yHCSdnulxYpH9; sessionid=0fbzey619mumr6guyuti71uxqbnq3c13' \
 --data '{
-    "username": "bob",
-    "password": "bob"
+    "username": "bobby1234",
+    "password": "bobby1234"
 }
 '
 ```
@@ -191,7 +190,7 @@ The report generation and retrieval APIs require Basic Authentication first.
 
 On Postman, please enter the user credentials in `Authorization > Basic Auth`
 
-![image](https://github.com/user-attachments/assets/eac81706-e663-4a6d-8f6c-3bbe9b780b34)
+![image](images/basic-auth.png)
 
 ## Database
 
@@ -205,7 +204,7 @@ The dummy report is simply an article from Fitch.
 
 ## LLM Usage
 
-This API uses the Llama 3.1 70B model - provided by [Groq](https://console.groq.com/docs/quickstart).
+This API uses the ~~Llama 3.1 70B model~~ (now deprecated) Llama 3.3 70B - provided by [Groq](https://console.groq.com/docs/quickstart).
 
 Due to insufficient tokens, we only feed the LLM the financial ratios of each company. In the code, the ECC transcripts and 
 10-K reports are queried, but not passed into the LLM.

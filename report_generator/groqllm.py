@@ -18,7 +18,7 @@ class GroqClient:
             self.client = Groq(api_key='dummy_key')
             GroqClient._instance = self
 
-    def generate_report_text(self, company_name, data, model="llama-3.1-70b-versatile", earning_calls_transcript=None,
+    def generate_report_text(self, company_name, data, model="llama-3.3-70b-versatile", earning_calls_transcript=None,
                              financial_ratios=None, ten_k_report=None):
 
         content = (
